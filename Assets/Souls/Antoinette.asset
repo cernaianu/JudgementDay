@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Antoinette
+  m_EditorClassIdentifier: 
+  Name: Antoinette
+  Story: She was an evil queen that never cared about her people. She loved her status
+    and used to spend all the time hosting extravagant parties and buffets. She always
+    tried to intervene alongside her husband into ruling the land.
+  Age: 38
+  Gender: Female
+  Face: {fileID: 21300000, guid: 3305b010b19917847af9c1d265c37c54, type: 3}
+  Sinner: 1
+  CauseOfDeath: Overthrew and killed in an upheaval.

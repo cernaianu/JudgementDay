@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Melchior
+  m_EditorClassIdentifier: 
+  Name: Melchior
+  Story: Was a legendary wizard that lived many years. He has watched several dynasties
+    collapse, so eventually he decided to recruit two apprentice witches whom he
+    loved very much.
+  Age: 325
+  Gender: Male
+  Face: {fileID: 21300000, guid: 0210a01954dbad04abe6cb9f8eca0dd3, type: 3}
+  Sinner: 1
+  CauseOfDeath: Evaporated by a fire tornado.

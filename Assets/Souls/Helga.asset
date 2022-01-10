@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Helga
+  m_EditorClassIdentifier: 
+  Name: Helga
+  Story: Being a housekeeper for a local baron, she ends up getting pregnant with
+    the aforementioned noble.
+  Age: 20
+  Gender: Female
+  Face: {fileID: 21300000, guid: 0f6c65778343ef240b9973aff866c7e0, type: 3}
+  Sinner: 1
+  CauseOfDeath: Stabbed by the baroness of the house.

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Yetta
+  m_EditorClassIdentifier: 
+  Name: Yetta
+  Story: She was the wife of a very wealthy baron. She was very deeply in love with
+    her husband until he dissapointed her by being unfaithful. After commiting two
+    dehumanizing crimes, she grew a deep depression.
+  Age: 35
+  Gender: Female
+  Face: {fileID: 21300000, guid: 6811595f2a6ec774795ed4fc6d2ea7ab, type: 3}
+  Sinner: 1
+  CauseOfDeath: Suicide by poisoning.

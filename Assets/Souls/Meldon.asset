@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Meldon
+  m_EditorClassIdentifier: 
+  Name: Meldon
+  Story: Was the innkeeper of the local inn. He always bragged about having the best
+    drinks and services in town, and often abused his workers in his greedyness.
+  Age: 40
+  Gender: Male
+  Face: {fileID: 21300000, guid: c0fddfce675110e41bd36f163a75170b, type: 3}
+  Sinner: 1
+  CauseOfDeath: Fell to his death from the top of the inn, following a bandit attack.

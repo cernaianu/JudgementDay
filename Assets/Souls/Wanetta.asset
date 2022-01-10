@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Wanetta
+  m_EditorClassIdentifier: 
+  Name: Wanetta
+  Story: Was a very powerful witch, apprentice of a legendary wizard. She spent her
+    life studying astrology and alchemy, also secretly destruction spells. She grew
+    obsessed with power, and tried to attain the immortality of her master but ended
+    up attracting too much of the churches attention.
+  Age: 26
+  Gender: Female
+  Face: {fileID: 21300000, guid: b9df66c3c22a43942922dde239f6b5ea, type: 3}
+  Sinner: 1
+  CauseOfDeath: Burned alive by the church.

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e33fb744b28e7459ef0a35265f8097, type: 3}
+  m_Name: Kinsey
+  m_EditorClassIdentifier: 
+  Name: Kinsey
+  Story: Was the king of the land. He tried to do a lot for his people but ended
+    up not doing much because of his wifes influence. People hated him for being
+    weak. Thus he engaged in self-destructive behaviours.
+  Age: 57
+  Gender: Male
+  Face: {fileID: 21300000, guid: 227461c2018ec4345837262b8d2b6b68, type: 3}
+  Sinner: 1
+  CauseOfDeath: Overthrew in an upheaval and killed.
